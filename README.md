@@ -1,2 +1,2 @@
 # JavaTasks
-"All Java OOP assignments done as part of training”
+"All Java OOPS assignments done as part of training”
